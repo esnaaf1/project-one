@@ -1,1 +1,0 @@
-This is the abbas version of main.py (all rights reserved)
